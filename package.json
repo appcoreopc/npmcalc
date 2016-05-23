@@ -1,0 +1,28 @@
+{
+  "name": "npmcalc",
+  "version": "1.0.0",
+  "description": "simple npm calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appcoreopc/npmcalc.git"
+  },
+  "keywords": [
+    "demo",
+    "calculator"
+  ],
+  "author": "jeremy woo <kepung@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/appcoreopc/npmcalc/issues"
+  },
+  "homepage": "https://github.com/appcoreopc/npmcalc#readme",
+  "preferGlobal": true,
+  "bin": {
+  "npmcalc": "./bin/index.js"
+ }
+
+}
