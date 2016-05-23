@@ -20,7 +20,7 @@
     "url": "https://github.com/appcoreopc/npmcalc/issues"
   },
   "homepage": "https://github.com/appcoreopc/npmcalc#readme",
-  "preferGlobal": true,
+  "preferGlobal": false,
   "bin": {
   "npmcalc": "./bin/index.js"
  }
